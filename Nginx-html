@@ -1,0 +1,2 @@
+mkdir html
+echo "<h1>Welcome to Nginx running in a Docker container!</h1>" > html/index.html
